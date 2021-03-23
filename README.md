@@ -62,7 +62,7 @@ when users can ead enemy chess,input:
  PLACE 3 3,2 5,4 3,6
 ```
 
-​	in this way the white chess can eat two black chess in block (4,3) and (4,5),going through 3 blocks:
+​	in this way the white chess can eat two black chess in block (4,3) and (4,5),going through 3 blocks.
 
 
 
@@ -74,13 +74,13 @@ when users can ead enemy chess,input:
 
 3. TURN request:
 
-   when it's AI turn to place a chess, simply input TURN to let AI decide which step to place.
+when it's AI turn to place a chess, simply input TURN to let AI decide which step to place.
 
    ```
    TURN
    ```
 
-   After input,a current board wil be shown to the users ,with the used time of the calculation and the information of the movement of AI ,similar to the information users input in PLACE request:
+After input,a current board wil be shown to the users ,with the used time of the calculation and the information of the movement of AI ,similar to the information users input in PLACE request.
 
    
 
