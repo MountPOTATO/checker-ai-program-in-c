@@ -28,7 +28,7 @@ START 2
 
 after input, an current chessboard map will be shown to the users
 
-![image-20200511091648695](C:\Users\一壤\AppData\Roaming\Typora\typora-user-images\image-20200511091648695.png)
+
 
 
 
@@ -54,21 +54,17 @@ PLACE 2 2,1 3,2
 
 After input, an current chessboard map will be shown to the users:
 
-![image-20200511092205558](C:\Users\一壤\AppData\Roaming\Typora\typora-user-images\image-20200511092205558.png)
 
-when users can attack like the following case:
 
-![image-20200511092409489](C:\Users\一壤\AppData\Roaming\Typora\typora-user-images\image-20200511092409489.png)
-
-input:
+when users can ead enemy chess,input:
 
 ```
  PLACE 3 3,2 5,4 3,6
 ```
 
-​	so that the white chess can eat two black chess in block (4,3) and (4,5),going through 3 blocks:
+​	in this way the white chess can eat two black chess in block (4,3) and (4,5),going through 3 blocks:
 
-![image-20200511092641076](C:\Users\一壤\AppData\Roaming\Typora\typora-user-images\image-20200511092641076.png)
+
 
 
 
@@ -86,7 +82,7 @@ input:
 
    After input,a current board wil be shown to the users ,with the used time of the calculation and the information of the movement of AI ,similar to the information users input in PLACE request:
 
-   ![image-20200511092834699](C:\Users\一壤\AppData\Roaming\Typora\typora-user-images\image-20200511092834699.png)
+   
 
    
 
